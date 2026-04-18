@@ -36,7 +36,7 @@
     "js-cookie": "^3.0.5",
     "lodash": "^4.17.21",
     "moment": "^2.30.1",
-    "next": "15.3.3",
+    "next": "15.3.8",
     "otp-input-react": "^0.3.0",
     "prop-types": "^15.8.1",
     "razorpay": "^2.9.6",
